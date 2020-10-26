@@ -14,5 +14,3 @@ function myBFunction(id) {
 
 }
 
-var a=[1,2,3,4];
-alert("The order in which the numbers disapered is" + a);
