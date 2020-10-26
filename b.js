@@ -4,7 +4,7 @@ count = 0;
 function myBFunction(id) {
 
   array[count] = document.getElementById(id).innerHTML;
-  document.getElementById(id).style.visibility = "hidden";
+  document.getElementById(id).innerHTML = "";
   count++;
 
 
